@@ -1,0 +1,34 @@
+.shanpin{
+	width: 7.5rem;
+	height: 13.34rem;
+	background-color: #D09A70;
+	margin: 0 auto;
+	position: relative;
+}
+.swiper-slide img{
+	width: 100%;
+	height: 100%;
+	display:inline-block;
+}
+.dianjianniu{
+	width: 2rem;
+	height:0.5rem;
+	background-color: #FFF;	
+}
+.swiper-slide1{
+	width: 7.5rem;
+	height: 13.34rem;
+	background-color: #fff;
+}
+.box{
+	width: 3rem;
+	height: 1rem;
+	background-color: #FFF;
+	margin: 6.17rem 2.25rem;
+}
+.box h1{
+	font-size: 0.5rem;
+	text-align: center;
+	line-height: 1rem;
+	font-weight: 200;
+}
